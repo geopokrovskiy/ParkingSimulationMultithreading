@@ -1,3 +1,5 @@
+This challenge has been suggested as an entry trial for a middle Java developer position in the Central Bank of Russian Federation.
+
 # ParkingSimulationMultithreading
 Parking Simulator console application using ExecutorService Framework.
 
